@@ -1,4 +1,4 @@
-# Algorith Practice
+# Algorithm Practice
 
 <p>
 A repository to practice algorithms in python and to try out coding challenges.
