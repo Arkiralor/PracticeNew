@@ -84,7 +84,7 @@ def main() -> None:
     '''
     numbers = InputClass('756', '1111111111')
     print("Numbers: ", numbers)
-    print("Binary Digits to change: ", numbers.check_differences())
+    print("Binary Digits to flip: ", numbers.check_differences())
 
 
 if __name__ == "__main__":
