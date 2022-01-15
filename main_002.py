@@ -33,9 +33,7 @@ class InputClass:
         to the given binary number.
         '''
         self._DEC_TO_BINARY = bin(self._DEC_NUM).replace("0b", "")
-        temp_list: list[str] = []
-        for item in self._DEC_TO_BINARY:
-            temp_list.append(item)
+        temp_list = [letter for letter in self._DEC_TO_BINARY]
         try:
             if len(temp_list) < len(self._BIN_NUM) or len(temp_list) == len(self._BIN_NUM):
                 additions = len(self._BIN_NUM) - len(temp_list)
