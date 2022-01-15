@@ -19,6 +19,10 @@ class InputClass:
         return representation
 
     def convert_to_binary(self) -> None:
+        '''
+        Convert the given integer to a binary number with equal number of bits
+        to the given binary number.
+        '''
         self._DEC_TO_BINARY = bin(self._DEC_NUM).replace("0b", "")
         new_list = []
         for item in self._DEC_TO_BINARY:
@@ -46,6 +50,10 @@ class InputClass:
             f"Decimal number '{self._DEC_NUM}' converted to binary: ", self._DEC_TO_BINARY)
 
     def check_differences(self) -> int:
+        '''
+        Check how many bits need to be flipped in the given binary number for it to be
+        equivalent to the given positive integer.
+        '''
         differences: int = 0
         self.convert_to_binary()
         lenght = len(self._BIN_NUM)
