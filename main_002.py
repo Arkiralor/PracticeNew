@@ -13,8 +13,8 @@ class InputClass:
 
     def convert_to_binary(self) -> None:
         self._DEC_TO_BINARY = bin(self._DEC_NUM).replace("0b", "")
-        # print(self._DEC_TO_BINARY)
-        # print(type(self._DEC_TO_BINARY))
+        print(self._DEC_TO_BINARY)
+        print(type(self._DEC_TO_BINARY))
 
     def check_differences(self) -> int:
         differences: int = 0
@@ -28,14 +28,10 @@ class InputClass:
                 differences = differences + 1
         return differences
 
-        # for item_1, item_2 in self._DEC_TO_BINARY, self._BIN_NUM:
-        #     if item_1 == item_2:
-        #         differences = differences + 1
-        # return differences
-
 
 def main() -> None:
     numbers = InputClass('34', '11011011')
+    print(numbers)
     # numbers.convert_to_binary()
     print(numbers.check_differences())
 
