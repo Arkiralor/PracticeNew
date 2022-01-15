@@ -2,6 +2,8 @@
 Python script to check how many bits would need to be flipped in a given binary number for it to be equivalent
 to a given, positive integer (whole number).
 '''
+
+
 class InputClass:
     '''
     Class to compare a given binary number and a given positive integer.
@@ -11,11 +13,18 @@ class InputClass:
     _DEC_TO_BINARY: str = None
 
     def __init__(self, int_num: str = None, bin_num: str = None) -> None:
-        self._DEC_NUM = int(int_num)
-        self._BIN_NUM = bin_num
+        try:
+            self._DEC_NUM = abs(int(int_num))
+            self._BIN_NUM = bin_num
+        except Exception as err:
+            print(
+                {
+                    "error": str(err)
+                }
+            )
 
     def __repr__(self) -> str:
-        representation = f"Decimal Number: {self._DEC_NUM}, Binary Number: {self._BIN_NUM}"
+        representation = f"Decimal Number: {self._DEC_NUM}, Binary Number: x0b{self._BIN_NUM}"
         return representation
 
     def convert_to_binary(self) -> None:
@@ -24,20 +33,21 @@ class InputClass:
         to the given binary number.
         '''
         self._DEC_TO_BINARY = bin(self._DEC_NUM).replace("0b", "")
-        new_list = []
+        temp_list: list[str] = []
         for item in self._DEC_TO_BINARY:
-            new_list.append(item)
+            temp_list.append(item)
         try:
-            if len(new_list) < len(self._BIN_NUM):
-                additions = len(self._BIN_NUM) - len(new_list)
+            if len(temp_list) < len(self._BIN_NUM) or len(temp_list) == len(self._BIN_NUM):
+                additions = len(self._BIN_NUM) - len(temp_list)
                 counter = 1
                 while (counter <= additions):
-                    new_list.insert(0, '0')
+                    temp_list.insert(0, '0')
                     counter = counter + 1
-                self._DEC_TO_BINARY = ''.join(new_list)
-            elif len(new_list) > len(self._BIN_NUM):
+                self._DEC_TO_BINARY = ''.join(temp_list)
+            elif len(temp_list) > len(self._BIN_NUM):
                 print(
-                    f"Decimal number '{self._DEC_NUM}' out-of-range of binary number '{self._BIN_NUM}'.")
+                    f"Decimal number '{self._DEC_NUM}' out-of-range of binary number 'x0b{self._BIN_NUM}'."
+                    )
                 exit()
         except Exception as err:
             print(
@@ -47,7 +57,8 @@ class InputClass:
             )
 
         print(
-            f"Decimal number '{self._DEC_NUM}' converted to binary: ", self._DEC_TO_BINARY)
+            f"Decimal number '{self._DEC_NUM}' converted to binary: x0b{self._DEC_TO_BINARY}"
+            )
 
     def check_differences(self) -> int:
         '''
@@ -59,7 +70,7 @@ class InputClass:
         lenght = len(self._BIN_NUM)
 
         try:
-            for i in range(lenght-1):
+            for i in range(lenght):
                 if self._BIN_NUM[i] != self._DEC_TO_BINARY[i]:
                     differences = differences + 1
             return differences
@@ -70,10 +81,16 @@ class InputClass:
 
 
 def main() -> None:
-    numbers = InputClass('0', '110110110')
+    '''
+    Main function.
+    '''
+    numbers = InputClass('756', '1111111111')
     print("Numbers: ", numbers)
     print("Binary Digits to change: ", numbers.check_differences())
 
 
 if __name__ == "__main__":
+    '''
+    Driver code.
+    '''
     main()
