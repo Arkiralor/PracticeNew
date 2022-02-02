@@ -4,7 +4,7 @@ class HelloWorld:
     def __init__(self, txt: str = None) -> None:
         self._MSG = txt
 
-    def __repr__(self) -> None:
+    def __repr__(self) -> str:
         return self._MSG
 
     def show_msg(self) -> None:
