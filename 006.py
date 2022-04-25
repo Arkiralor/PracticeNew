@@ -13,6 +13,7 @@ def main():
     limit = 100_000
     ds, t = find_prime_numbers(limit)
     print(f'Prime numbers found: {len(ds)}')
+    print(ds)
     print(f'Time taken: {t}')
 
 if __name__ == '__main__':
