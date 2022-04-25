@@ -8,4 +8,4 @@ def test_token_hex(num:int):
     return token_hex(num)
 
 if __name__=="__main__":
-    print(test_token_hex(256))
+    print(test_token_hex(99))
