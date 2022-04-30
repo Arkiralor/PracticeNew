@@ -66,7 +66,7 @@ class HouseRobber:
     nums = [2, 3, 5, 12, 13, 16]
 
     @classmethod
-    def resolve_key(cls, value, data:dict):
+    def resolve_key(cls, value, data: dict):
         '''
         Method to find key by value in a given dictionary.
         '''
@@ -88,20 +88,19 @@ class HouseRobber:
 
         return res_list
 
-        
     @classmethod
     def robbing_pattern(cls, loot_list: List[int] = None):
         '''
         Method to find the most-profitable robbing pattern.
         '''
-        if loot_list is None or len(loot_list)==0:
+        if loot_list is None or len(loot_list) == 0:
             loot_list = cls.nums
         ## Since we are working with non-adjacent nodes, there can only be two patterns:
         ## one starting at index 0 and one starting at index 1, with both indices incrementing by 2.
         starts = [0, 1]
         loot_dict = {}
 
-        for start in  starts:  
+        for start in starts:
             i = start
             summary = 0
             while i < len(loot_list):
@@ -109,16 +108,19 @@ class HouseRobber:
                 i = i+2
             loot_dict[start] = summary
 
+        print(f"\nLoot dictionary: {loot_dict}")
+
         max_loot = max([loot_dict.get(0), loot_dict.get(1)])
-        
+
         start = cls.resolve_key(max_loot, loot_dict)
-            
+
         res_dict = {
             "starting_position": start,
-            "total_loot": max_loot, 
+            "total_loot": max_loot,
             "pattern (indices)": cls.create_pattern(start=start, data_list=loot_list)
         }
         return res_dict
+
 
 def main():
     '''
