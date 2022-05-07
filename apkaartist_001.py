@@ -6,7 +6,7 @@ class User(AbstractUser):
 
     name = models.CharField(max_length = 32, null=False, blank=False, default='', verbose_name='full_name')
     email = models.EmailField(verbose_name='email address', max_length=255, unique=True)
-    created_at = models.DateTimeField(auto_now_add=True, verbose_name='created_at', null=False)
+    created_at = models.DateTimeField(auto_now_add=True, verbose_name='joined', null=False)
 
 resp = User.objects.filter(
         (
