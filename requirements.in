@@ -1,0 +1,9 @@
+autopep8
+Django
+djangorestframework
+pandas
+python-dotenv
+pytest
+sympy
+requests
+psycopg2-binary
