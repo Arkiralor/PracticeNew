@@ -1,6 +1,7 @@
 autopep8
 Django
 djangorestframework
+jsonpath
 pandas
 python-dotenv
 pytest

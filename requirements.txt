@@ -28,6 +28,8 @@ idna==3.3
     # via requests
 iniconfig==1.1.1
     # via pytest
+jsonpath==0.82
+    # via -r requirements.in
 mpmath==1.2.1
     # via sympy
 numpy==1.22.4
