@@ -1,0 +1,15 @@
+autopep8
+faker
+Django
+djangorestframework
+jsonpath
+jupyter
+pandas
+python-dotenv
+pytest
+sympy
+requests
+psycopg2-binary
+pyjwt
+pycryptodome
+# pyjwt[crypto]

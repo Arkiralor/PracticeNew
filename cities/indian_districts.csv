@@ -1,0 +1,641 @@
+,state,district
+0,Andaman & Nicobar Islands,Nicobars
+4,Andaman & Nicobar Islands,North  & Middle Andaman
+8,Andaman & Nicobar Islands,South Andaman
+12,Andhra Pradesh,Adilabad
+64,Andhra Pradesh,Nizamabad
+100,Andhra Pradesh,Karimnagar
+157,Andhra Pradesh,Medak
+203,Andhra Pradesh,Hyderabad
+220,Andhra Pradesh,Rangareddy
+258,Andhra Pradesh,Mahbubnagar
+322,Andhra Pradesh,Nalgonda
+381,Andhra Pradesh,Warangal
+432,Andhra Pradesh,Khammam
+479,Andhra Pradesh,Srikakulam
+517,Andhra Pradesh,Vizianagaram
+551,Andhra Pradesh,Visakhapatnam
+595,Andhra Pradesh,East Godavari
+656,Andhra Pradesh,West Godavari
+703,Andhra Pradesh,Krishna
+754,Andhra Pradesh,Guntur
+811,Andhra Pradesh,Prakasam
+868,Andhra Pradesh,Sri Potti Sriramulu Nellore
+915,Andhra Pradesh,Y.S.R.
+967,Andhra Pradesh,Kurnool
+1021,Andhra Pradesh,Anantapur
+1084,Andhra Pradesh,Chittoor
+1150,Arunachal Pradesh,Tawang
+1160,Arunachal Pradesh,West Kameng
+1174,Arunachal Pradesh,East Kameng
+1188,Arunachal Pradesh,Papum Pare
+1204,Arunachal Pradesh,Upper Subansiri
+1220,Arunachal Pradesh,West Siang
+1242,Arunachal Pradesh,East Siang
+1258,Arunachal Pradesh,Upper Siang
+1270,Arunachal Pradesh,Changlang
+1285,Arunachal Pradesh,Tirap
+1297,Arunachal Pradesh,Lower Subansiri
+1306,Arunachal Pradesh,Kurung Kumey
+1321,Arunachal Pradesh,Dibang Valley
+1327,Arunachal Pradesh,Lower Dibang Valley
+1334,Arunachal Pradesh,Lohit
+1343,Arunachal Pradesh,Anjaw
+1352,Assam,Kokrajhar
+1362,Assam,Dhubri
+1372,Assam,Goalpara
+1378,Assam,Barpeta
+1387,Assam,Morigaon
+1393,Assam,Nagaon
+1403,Assam,Sonitpur
+1411,Assam,Lakhimpur
+1419,Assam,Dhemaji
+1425,Assam,Tinsukia
+1429,Assam,Dibrugarh
+1437,Assam,Sivasagar
+1443,Assam,Jorhat
+1450,Assam,Golaghat
+1456,Assam,Karbi Anglong
+1461,Assam,Dima Hasao
+1466,Assam,Cachar
+1472,Assam,Karimganj
+1477,Assam,Hailakandi
+1481,Assam,Bongaigaon
+1487,Assam,Chirang
+1494,Assam,Kamrup
+1507,Assam,Kamrup (Metropolitan)
+1514,Assam,Nalbari
+1523,Assam,Baksa
+1537,Assam,Darrang
+1544,Assam,Udalguri
+1553,Bihar,Pashchim Champaran
+1572,Bihar,Purba Champaran
+1600,Bihar,Sheohar
+1605,Bihar,Sitamarhi
+1623,Bihar,Madhubani
+1644,Bihar,Supaul
+1655,Bihar,Araria
+1664,Bihar,Kishanganj
+1671,Bihar,Purnia
+1686,Bihar,Katihar
+1702,Bihar,Madhepura
+1715,Bihar,Saharsa
+1726,Bihar,Darbhanga
+1744,Bihar,Muzaffarpur
+1761,Bihar,Gopalganj
+1775,Bihar,Siwan
+1794,Bihar,Saran
+1815,Bihar,Vaishali
+1831,Bihar,Samastipur
+1851,Bihar,Begusarai
+1869,Bihar,Khagaria
+1876,Bihar,Bhagalpur
+1893,Bihar,Banka
+1904,Bihar,Munger
+1913,Bihar,Lakhisarai
+1920,Bihar,Sheikhpura
+1926,Bihar,Nalanda
+1947,Bihar,Patna
+1971,Bihar,Bhojpur
+1986,Bihar,Buxar
+1997,Bihar,Kaimur (Bhabua)
+2009,Bihar,Rohtas
+2028,Bihar,Aurangabad
+2039,Bihar,Gaya
+2064,Bihar,Nawada
+2078,Bihar,Jamui
+2088,Bihar,Jehanabad
+2096,Bihar,Arwal
+2101,Chandigarh,Chandigarh
+2102,Chhattisgarh,Koriya
+2108,Chhattisgarh,Surguja
+2128,Chhattisgarh,Jashpur
+2137,Chhattisgarh,Raigarh
+2146,Chhattisgarh,Korba
+2152,Chhattisgarh,Janjgir - Champa
+2163,Chhattisgarh,Bilaspur
+2174,Chhattisgarh,Kabeerdham
+2179,Chhattisgarh,Rajnandgaon
+2188,Chhattisgarh,Durg
+2201,Chhattisgarh,Raipur
+2216,Chhattisgarh,Mahasamund
+2221,Chhattisgarh,Dhamtari
+2226,Chhattisgarh,Uttar Bastar Kanker
+2234,Chhattisgarh,Bastar
+2246,Chhattisgarh,Narayanpur
+2248,Chhattisgarh,Dakshin Bastar Dantewada
+2256,Chhattisgarh,Bijapur
+2260,Dadra & Nagar Haveli,Dadra & Nagar Haveli
+2261,Daman & Diu,Diu
+2262,Daman & Diu,Daman
+2263,Delhi,North West
+2267,Delhi,North
+2271,Delhi,North East
+2275,Delhi,East
+2279,Delhi,New Delhi
+2283,Delhi,Central
+2287,Delhi,West
+2291,Delhi,South West
+2295,Delhi,South
+2299,Goa,North Goa
+2306,Goa,South Goa
+2312,Gujarat,Kachchh
+2323,Gujarat,Banas Kantha
+2336,Gujarat,Patan
+2344,Gujarat,Mahesana
+2353,Gujarat,Sabar Kantha
+2367,Gujarat,Gandhinagar
+2371,Gujarat,Ahmadabad
+2383,Gujarat,Surendranagar
+2394,Gujarat,Rajkot
+2408,Gujarat,Jamnagar
+2418,Gujarat,Porbandar
+2422,Gujarat,Junagadh
+2436,Gujarat,Amreli
+2447,Gujarat,Bhavnagar
+2458,Gujarat,Anand
+2467,Gujarat,Kheda
+2477,Gujarat,Panch Mahals
+2489,Gujarat,Dohad
+2497,Gujarat,Vadodara
+2509,Gujarat,Narmada
+2514,Gujarat,Bharuch
+2522,Gujarat,The Dangs
+2523,Gujarat,Navsari
+2529,Gujarat,Valsad
+2534,Gujarat,Surat
+2545,Gujarat,Tapi
+2551,Haryana,Panchkula
+2553,Haryana,Ambala
+2556,Haryana,Yamunanagar
+2560,Haryana,Kurukshetra
+2564,Haryana,Kaithal
+2567,Haryana,Karnal
+2572,Haryana,Panipat
+2575,Haryana,Sonipat
+2579,Haryana,Jind
+2583,Haryana,Fatehabad
+2586,Haryana,Sirsa
+2590,Haryana,Hisar
+2594,Haryana,Bhiwani
+2601,Haryana,Rohtak
+2604,Haryana,Jhajjar
+2608,Haryana,Mahendragarh
+2610,Haryana,Rewari
+2613,Haryana,Gurgaon
+2618,Haryana,Mewat
+2623,Haryana,Faridabad
+2625,Haryana,Palwal
+2629,Himachal Pradesh,Chamba
+2639,Himachal Pradesh,Kangra
+2660,Himachal Pradesh,Lahul & Spiti
+2664,Himachal Pradesh,Kullu
+2670,Himachal Pradesh,Mandi
+2687,Himachal Pradesh,Hamirpur
+2694,Himachal Pradesh,Una
+2699,Himachal Pradesh,Bilaspur
+2706,Himachal Pradesh,Solan
+2715,Himachal Pradesh,Sirmaur
+2726,Himachal Pradesh,Shimla
+2744,Himachal Pradesh,Kinnaur
+2751,Jammu & Kashmir,Kupwara
+2754,Jammu & Kashmir,Badgam
+2761,Jammu & Kashmir,Leh(Ladakh)
+2765,Jammu & Kashmir,Kargil
+2768,Jammu & Kashmir,Punch
+2773,Jammu & Kashmir,Rajouri
+2781,Jammu & Kashmir,Kathua
+2786,Jammu & Kashmir,Baramula
+2795,Jammu & Kashmir,Bandipore
+2799,Jammu & Kashmir,Srinagar
+2802,Jammu & Kashmir,Ganderbal
+2805,Jammu & Kashmir,Pulwama
+2809,Jammu & Kashmir,Shupiyan
+2811,Jammu & Kashmir,Anantnag
+2817,Jammu & Kashmir,Kulgam
+2820,Jammu & Kashmir,Doda
+2824,Jammu & Kashmir,Ramban
+2826,Jammu & Kashmir,Kishtwar
+2830,Jammu & Kashmir,Udhampur
+2834,Jammu & Kashmir,Reasi
+2836,Jammu & Kashmir,Jammu
+2840,Jammu & Kashmir,Samba
+2841,Jharkhand,Garhwa
+2861,Jharkhand,Chatra
+2873,Jharkhand,Kodarma
+2879,Jharkhand,Giridih
+2892,Jharkhand,Deoghar
+2902,Jharkhand,Godda
+2911,Jharkhand,Sahibganj
+2920,Jharkhand,Pakur
+2927,Jharkhand,Dhanbad
+2937,Jharkhand,Bokaro
+2947,Jharkhand,Lohardaga
+2954,Jharkhand,Purbi Singhbhum
+2966,Jharkhand,Palamu
+2987,Jharkhand,Latehar
+2996,Jharkhand,Hazaribagh
+3013,Jharkhand,Ramgarh
+3019,Jharkhand,Dumka
+3029,Jharkhand,Jamtara
+3035,Jharkhand,Ranchi
+3054,Jharkhand,Khunti
+3060,Jharkhand,Gumla
+3072,Jharkhand,Simdega
+3082,Jharkhand,Pashchimi Singhbhum
+3101,Jharkhand,Saraikela-Kharsawan
+3111,Karnataka,Belgaum
+3121,Karnataka,Bagalkot
+3128,Karnataka,Bijapur
+3133,Karnataka,Bidar
+3139,Karnataka,Raichur
+3145,Karnataka,Koppal
+3150,Karnataka,Gadag
+3155,Karnataka,Dharwad
+3160,Karnataka,Uttara Kannada
+3172,Karnataka,Haveri
+3180,Karnataka,Bellary
+3188,Karnataka,Chitradurga
+3195,Karnataka,Davanagere
+3202,Karnataka,Shimoga
+3210,Karnataka,Udupi
+3213,Karnataka,Chikmagalur
+3221,Karnataka,Tumkur
+3232,Karnataka,Bangalore
+3237,Karnataka,Mandya
+3245,Karnataka,Hassan
+3254,Karnataka,Dakshina Kannada
+3260,Karnataka,Kodagu
+3264,Karnataka,Mysore
+3272,Karnataka,Chamarajanagar
+3277,Karnataka,Gulbarga
+3285,Karnataka,Yadgir
+3289,Karnataka,Kolar
+3295,Karnataka,Chikkaballapura
+3301,Karnataka,Bangalore Rural
+3306,Karnataka,Ramanagara
+3310,Kerala,Kasaragod
+3312,Kerala,Kannur
+3315,Kerala,Wayanad
+3319,Kerala,Kozhikode
+3322,Kerala,Malappuram
+3329,Kerala,Palakkad
+3334,Kerala,Thrissur
+3339,Kerala,Ernakulam
+3347,Kerala,Idukki
+3352,Kerala,Kottayam
+3357,Kerala,Alappuzha
+3364,Kerala,Pathanamthitta
+3370,Kerala,Kollam
+3375,Kerala,Thiruvananthapuram
+3379,Lakshadweep,Lakshadweep
+3390,Madhya Pradesh,Sheopur
+3396,Madhya Pradesh,Morena
+3402,Madhya Pradesh,Bhind
+3410,Madhya Pradesh,Gwalior
+3415,Madhya Pradesh,Datia
+3419,Madhya Pradesh,Shivpuri
+3427,Madhya Pradesh,Tikamgarh
+3436,Madhya Pradesh,Chhatarpur
+3447,Madhya Pradesh,Panna
+3455,Madhya Pradesh,Sagar
+3466,Madhya Pradesh,Damoh
+3473,Madhya Pradesh,Satna
+3484,Madhya Pradesh,Rewa
+3496,Madhya Pradesh,Umaria
+3502,Madhya Pradesh,Neemuch
+3508,Madhya Pradesh,Mandsaur
+3516,Madhya Pradesh,Ratlam
+3524,Madhya Pradesh,Ujjain
+3531,Madhya Pradesh,Shajapur
+3540,Madhya Pradesh,Dewas
+3548,Madhya Pradesh,Dhar
+3556,Madhya Pradesh,Indore
+3561,Madhya Pradesh,Khargone (West Nimar)
+3571,Madhya Pradesh,Barwani
+3581,Madhya Pradesh,Rajgarh
+3588,Madhya Pradesh,Vidisha
+3598,Madhya Pradesh,Bhopal
+3601,Madhya Pradesh,Sehore
+3609,Madhya Pradesh,Raisen
+3617,Madhya Pradesh,Betul
+3626,Madhya Pradesh,Harda
+3633,Madhya Pradesh,Hoshangabad
+3641,Madhya Pradesh,Katni
+3649,Madhya Pradesh,Jabalpur
+3656,Madhya Pradesh,Narsimhapur
+3661,Madhya Pradesh,Dindori
+3663,Madhya Pradesh,Mandla
+3669,Madhya Pradesh,Chhindwara
+3681,Madhya Pradesh,Seoni
+3689,Madhya Pradesh,Balaghat
+3699,Madhya Pradesh,Guna
+3706,Madhya Pradesh,Ashoknagar
+3711,Madhya Pradesh,Shahdol
+3716,Madhya Pradesh,Anuppur
+3720,Madhya Pradesh,Sidhi
+3727,Madhya Pradesh,Singrauli
+3730,Madhya Pradesh,Jhabua
+3735,Madhya Pradesh,Alirajpur
+3738,Madhya Pradesh,Khandwa (East Nimar)
+3744,Madhya Pradesh,Burhanpur
+3747,Maharashtra,Nandurbar
+3753,Maharashtra,Dhule
+3757,Maharashtra,Jalgaon
+3772,Maharashtra,Buldana
+3785,Maharashtra,Akola
+3792,Maharashtra,Washim
+3798,Maharashtra,Amravati
+3812,Maharashtra,Wardha
+3820,Maharashtra,Nagpur
+3835,Maharashtra,Bhandara
+3842,Maharashtra,Gondiya
+3850,Maharashtra,Gadchiroli
+3862,Maharashtra,Chandrapur
+3877,Maharashtra,Yavatmal
+3893,Maharashtra,Nanded
+3909,Maharashtra,Hingoli
+3914,Maharashtra,Parbhani
+3923,Maharashtra,Jalna
+3931,Maharashtra,Aurangabad
+3940,Maharashtra,Nashik
+3955,Maharashtra,Thane
+3970,Maharashtra,Mumbai Suburban
+3971,Maharashtra,Mumbai
+3972,Maharashtra,Raigarh
+3988,Maharashtra,Pune
+4003,Maharashtra,Ahmadnagar
+4018,Maharashtra,Bid
+4029,Maharashtra,Latur
+4039,Maharashtra,Osmanabad
+4047,Maharashtra,Solapur
+4059,Maharashtra,Satara
+4070,Maharashtra,Ratnagiri
+4079,Maharashtra,Sindhudurg
+4088,Maharashtra,Kolhapur
+4101,Maharashtra,Sangli
+4112,Manipur,Senapati
+4119,Manipur,Tamenglong
+4123,Manipur,Churachandpur
+4128,Manipur,Bishnupur
+4131,Manipur,Thoubal
+4135,Manipur,Imphal West
+4140,Manipur,Imphal East
+4145,Manipur,Ukhrul
+4151,Manipur,Chandel
+4156,Meghalaya,West Garo Hills
+4165,Meghalaya,East Garo Hills
+4171,Meghalaya,South Garo Hills
+4176,Meghalaya,West Khasi Hills
+4183,Meghalaya,Ribhoi
+4187,Meghalaya,East Khasi Hills
+4196,Meghalaya,Jaintia Hills
+4202,Mizoram,Mamit
+4206,Mizoram,Kolasib
+4210,Mizoram,Aizawl
+4216,Mizoram,Champhai
+4221,Mizoram,Serchhip
+4224,Mizoram,Lunglei
+4228,Mizoram,Lawngtlai
+4232,Mizoram,Saiha
+4234,Nagaland,Mon
+4249,Nagaland,Mokokchung
+4259,Nagaland,Zunheboto
+4273,Nagaland,Wokha
+4286,Nagaland,Dimapur
+4295,Nagaland,Phek
+4310,Nagaland,Tuensang
+4327,Nagaland,Longleng
+4332,Nagaland,Kiphire
+4341,Nagaland,Kohima
+4350,Nagaland,Peren
+4357,Odisha,Bargarh
+4372,Odisha,Jharsuguda
+4382,Odisha,Sambalpur
+4403,Odisha,Debagarh
+4407,Odisha,Sundargarh
+4438,Odisha,Kendujhar
+4463,Odisha,Mayurbhanj
+4495,Odisha,Baleshwar
+4517,Odisha,Bhadrak
+4530,Odisha,Kendrapara
+4543,Odisha,Jagatsinghapur
+4554,Odisha,Cuttack
+4580,Odisha,Jajapur
+4599,Odisha,Dhenkanal
+4613,Odisha,Anugul
+4637,Odisha,Nayagarh
+4650,Odisha,Khordha
+4672,Odisha,Puri
+4688,Odisha,Ganjam
+4718,Odisha,Gajapati
+4729,Odisha,Kandhamal
+4747,Odisha,Baudh
+4754,Odisha,Subarnapur
+4763,Odisha,Balangir
+4775,Odisha,Nuapada
+4781,Odisha,Kalahandi
+4795,Odisha,Rayagada
+4811,Odisha,Nabarangapur
+4824,Odisha,Koraput
+4846,Odisha,Malkangiri
+4858,Puducherry,Yanam
+4860,Puducherry,Puducherry
+4865,Puducherry,Mahe
+4867,Puducherry,Karaikal
+4870,Punjab,Gurdaspur
+4876,Punjab,Kapurthala
+4880,Punjab,Jalandhar
+4886,Punjab,Hoshiarpur
+4891,Punjab,Shahid Bhagat Singh Nagar
+4894,Punjab,Fatehgarh Sahib
+4898,Punjab,Ludhiana
+4906,Punjab,Moga
+4909,Punjab,Firozpur
+4914,Punjab,Muktsar
+4917,Punjab,Faridkot
+4919,Punjab,Bathinda
+4922,Punjab,Mansa
+4925,Punjab,Patiala
+4930,Punjab,Amritsar
+4935,Punjab,Tarn Taran
+4938,Punjab,Rupnagar
+4943,Punjab,Sahibzada Ajit Singh Nagar
+4947,Punjab,Sangrur
+4953,Punjab,Barnala
+4955,Rajasthan,Ganganagar
+4965,Rajasthan,Hanumangarh
+4972,Rajasthan,Bikaner
+4980,Rajasthan,Churu
+4986,Rajasthan,Jhunjhunun
+4992,Rajasthan,Alwar
+5004,Rajasthan,Bharatpur
+5014,Rajasthan,Dhaulpur
+5019,Rajasthan,Karauli
+5025,Rajasthan,Sawai Madhopur
+5032,Rajasthan,Dausa
+5037,Rajasthan,Jaipur
+5050,Rajasthan,Sikar
+5056,Rajasthan,Nagaur
+5066,Rajasthan,Jodhpur
+5073,Rajasthan,Jaisalmer
+5076,Rajasthan,Barmer
+5084,Rajasthan,Jalor
+5091,Rajasthan,Sirohi
+5096,Rajasthan,Pali
+5105,Rajasthan,Ajmer
+5114,Rajasthan,Tonk
+5121,Rajasthan,Bundi
+5126,Rajasthan,Bhilwara
+5138,Rajasthan,Rajsamand
+5145,Rajasthan,Dungarpur
+5149,Rajasthan,Banswara
+5154,Rajasthan,Chittaurgarh
+5164,Rajasthan,Kota
+5170,Rajasthan,Baran
+5178,Rajasthan,Jhalawar
+5186,Rajasthan,Udaipur
+5198,Rajasthan,Pratapgarh
+5203,Sikkim,North  District
+5206,Sikkim,West District
+5209,Sikkim,South District
+5212,Sikkim,East District
+5216,Tamil Nadu,Thiruvallur
+5225,Tamil Nadu,Chennai
+5226,Tamil Nadu,Kancheepuram
+5236,Tamil Nadu,Vellore
+5245,Tamil Nadu,Tiruvannamalai
+5252,Tamil Nadu,Viluppuram
+5260,Tamil Nadu,Salem
+5269,Tamil Nadu,Namakkal
+5274,Tamil Nadu,Erode
+5279,Tamil Nadu,The Nilgiris
+5286,Tamil Nadu,Dindigul
+5294,Tamil Nadu,Karur
+5300,Tamil Nadu,Tiruchirappalli
+5309,Tamil Nadu,Perambalur
+5313,Tamil Nadu,Ariyalur
+5317,Tamil Nadu,Cuddalore
+5324,Tamil Nadu,Nagapattinam
+5333,Tamil Nadu,Thiruvarur
+5340,Tamil Nadu,Thanjavur
+5348,Tamil Nadu,Pudukkottai
+5359,Tamil Nadu,Sivaganga
+5365,Tamil Nadu,Madurai
+5373,Tamil Nadu,Theni
+5379,Tamil Nadu,Virudhunagar
+5387,Tamil Nadu,Ramanathapuram
+5394,Tamil Nadu,Thoothukkudi
+5402,Tamil Nadu,Tirunelveli
+5414,Tamil Nadu,Kanniyakumari
+5419,Tamil Nadu,Dharmapuri
+5424,Tamil Nadu,Krishnagiri
+5429,Tamil Nadu,Coimbatore
+5436,Tamil Nadu,Tiruppur
+5443,Tripura,West Tripura
+5460,Tripura,South Tripura
+5472,Tripura,Dhalai
+5478,Tripura,North Tripura
+5487,Uttarakhand,Uttarkashi
+5494,Uttarakhand,Chamoli
+5500,Uttarakhand,Rudraprayag
+5504,Uttarakhand,Tehri Garhwal
+5512,Uttarakhand,Dehradun
+5519,Uttarakhand,Garhwal
+5529,Uttarakhand,Pithoragarh
+5536,Uttarakhand,Bageshwar
+5541,Uttarakhand,Almora
+5550,Uttarakhand,Champawat
+5554,Uttarakhand,Nainital
+5562,Uttarakhand,Udham Singh Nagar
+5570,Uttarakhand,Haridwar
+5573,Uttar Pradesh,Saharanpur
+5578,Uttar Pradesh,Muzaffarnagar
+5584,Uttar Pradesh,Bijnor
+5589,Uttar Pradesh,Moradabad
+5595,Uttar Pradesh,Rampur
+5601,Uttar Pradesh,Jyotiba Phule Nagar
+5605,Uttar Pradesh,Meerut
+5608,Uttar Pradesh,Baghpat
+5611,Uttar Pradesh,Ghaziabad
+5615,Uttar Pradesh,Gautam Buddha Nagar
+5618,Uttar Pradesh,Bulandshahr
+5626,Uttar Pradesh,Aligarh
+5632,Uttar Pradesh,Mahamaya Nagar
+5637,Uttar Pradesh,Mathura
+5641,Uttar Pradesh,Agra
+5647,Uttar Pradesh,Firozabad
+5651,Uttar Pradesh,Mainpuri
+5654,Uttar Pradesh,Budaun
+5660,Uttar Pradesh,Bareilly
+5667,Uttar Pradesh,Pilibhit
+5671,Uttar Pradesh,Shahjahanpur
+5675,Uttar Pradesh,Kheri
+5682,Uttar Pradesh,Sitapur
+5688,Uttar Pradesh,Hardoi
+5694,Uttar Pradesh,Unnao
+5699,Uttar Pradesh,Lucknow
+5703,Uttar Pradesh,Rae Bareli
+5711,Uttar Pradesh,Farrukhabad
+5715,Uttar Pradesh,Kannauj
+5718,Uttar Pradesh,Etawah
+5723,Uttar Pradesh,Auraiya
+5726,Uttar Pradesh,Kanpur Dehat
+5732,Uttar Pradesh,Kanpur Nagar
+5736,Uttar Pradesh,Jalaun
+5742,Uttar Pradesh,Jhansi
+5747,Uttar Pradesh,Lalitpur
+5751,Uttar Pradesh,Hamirpur
+5755,Uttar Pradesh,Mahoba
+5759,Uttar Pradesh,Banda
+5763,Uttar Pradesh,Chitrakoot
+5766,Uttar Pradesh,Fatehpur
+5769,Uttar Pradesh,Pratapgarh
+5774,Uttar Pradesh,Kaushambi
+5778,Uttar Pradesh,Allahabad
+5787,Uttar Pradesh,Bara Banki
+5794,Uttar Pradesh,Faizabad
+5799,Uttar Pradesh,Ambedkar Nagar
+5805,Uttar Pradesh,Sultanpur
+5812,Uttar Pradesh,Bahraich
+5816,Uttar Pradesh,Shrawasti
+5819,Uttar Pradesh,Balrampur
+5822,Uttar Pradesh,Gonda
+5827,Uttar Pradesh,Siddharthnagar
+5833,Uttar Pradesh,Basti
+5837,Uttar Pradesh,Sant Kabir Nagar
+5841,Uttar Pradesh,Mahrajganj
+5846,Uttar Pradesh,Gorakhpur
+5853,Uttar Pradesh,Kushinagar
+5858,Uttar Pradesh,Deoria
+5863,Uttar Pradesh,Azamgarh
+5871,Uttar Pradesh,Mau
+5876,Uttar Pradesh,Ballia
+5882,Uttar Pradesh,Jaunpur
+5889,Uttar Pradesh,Ghazipur
+5894,Uttar Pradesh,Chandauli
+5897,Uttar Pradesh,Varanasi
+5899,Uttar Pradesh,Sant Ravidas Nagar (Bhadohi)
+5903,Uttar Pradesh,Mirzapur
+5907,Uttar Pradesh,Sonbhadra
+5911,Uttar Pradesh,Etah
+5914,Uttar Pradesh,Kanshiram Nagar
+5918,West Bengal,Darjiling
+5931,West Bengal,Jalpaiguri
+5945,West Bengal,Koch Bihar
+5958,West Bengal,Uttar Dinajpur
+5968,West Bengal,Dakshin Dinajpur
+5977,West Bengal,Maldah
+5993,West Bengal,Murshidabad
+6020,West Bengal,Birbhum
+6040,West Bengal,Barddhaman
+6072,West Bengal,Nadia
+6090,West Bengal,North Twenty Four Parganas
+6113,West Bengal,Hugli
+6132,West Bengal,Bankura
+6155,West Bengal,Puruliya
+6176,West Bengal,Haora
+6191,West Bengal,Kolkata
+6192,West Bengal,South Twenty Four Parganas
+6223,West Bengal,Paschim Medinipur
+6253,West Bengal,Purba Medinipur
