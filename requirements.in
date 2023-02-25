@@ -9,7 +9,8 @@ python-dotenv
 pytest
 sympy
 requests
+rsa
 psycopg2-binary
 pyjwt
-pycryptodome
+# pycryptodome
 # pyjwt[crypto]
