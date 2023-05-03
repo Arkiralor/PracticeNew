@@ -1,0 +1,1127 @@
+[
+    {
+        "letter": "char",
+        "ascii": "ASCII",
+        "utf-8": "UTF-8"
+    },
+    {
+        "letter": " ",
+        "ascii": "%20",
+        "utf-8": "%20"
+    },
+    {
+        "letter": "!",
+        "ascii": "%21",
+        "utf-8": "%21"
+    },
+    {
+        "letter": "\"",
+        "ascii": "%22",
+        "utf-8": "%22"
+    },
+    {
+        "letter": "#",
+        "ascii": "%23",
+        "utf-8": "%23"
+    },
+    {
+        "letter": "$",
+        "ascii": "%24",
+        "utf-8": "%24"
+    },
+    {
+        "letter": "%",
+        "ascii": "%25",
+        "utf-8": "%25"
+    },
+    {
+        "letter": "&",
+        "ascii": "%26",
+        "utf-8": "%26"
+    },
+    {
+        "letter": "'",
+        "ascii": "%27",
+        "utf-8": "%27"
+    },
+    {
+        "letter": "(",
+        "ascii": "%28",
+        "utf-8": "%28"
+    },
+    {
+        "letter": ")",
+        "ascii": "%29",
+        "utf-8": "%29"
+    },
+    {
+        "letter": "*",
+        "ascii": "%2A",
+        "utf-8": "%2A"
+    },
+    {
+        "letter": "+",
+        "ascii": "%2B",
+        "utf-8": "%2B"
+    },
+    {
+        "letter": ",",
+        "ascii": "%2C",
+        "utf-8": "%2C"
+    },
+    {
+        "letter": "-",
+        "ascii": "%2D",
+        "utf-8": "%2D"
+    },
+    {
+        "letter": ".",
+        "ascii": "%2E",
+        "utf-8": "%2E"
+    },
+    {
+        "letter": "/",
+        "ascii": "%2F",
+        "utf-8": "%2F"
+    },
+    {
+        "letter": "0",
+        "ascii": "%30",
+        "utf-8": "%30"
+    },
+    {
+        "letter": "1",
+        "ascii": "%31",
+        "utf-8": "%31"
+    },
+    {
+        "letter": "2",
+        "ascii": "%32",
+        "utf-8": "%32"
+    },
+    {
+        "letter": "3",
+        "ascii": "%33",
+        "utf-8": "%33"
+    },
+    {
+        "letter": "4",
+        "ascii": "%34",
+        "utf-8": "%34"
+    },
+    {
+        "letter": "5",
+        "ascii": "%35",
+        "utf-8": "%35"
+    },
+    {
+        "letter": "6",
+        "ascii": "%36",
+        "utf-8": "%36"
+    },
+    {
+        "letter": "7",
+        "ascii": "%37",
+        "utf-8": "%37"
+    },
+    {
+        "letter": "8",
+        "ascii": "%38",
+        "utf-8": "%38"
+    },
+    {
+        "letter": "9",
+        "ascii": "%39",
+        "utf-8": "%39"
+    },
+    {
+        "letter": ":",
+        "ascii": "%3A",
+        "utf-8": "%3A"
+    },
+    {
+        "letter": ";",
+        "ascii": "%3B",
+        "utf-8": "%3B"
+    },
+    {
+        "letter": "<",
+        "ascii": "%3C",
+        "utf-8": "%3C"
+    },
+    {
+        "letter": "=",
+        "ascii": "%3D",
+        "utf-8": "%3D"
+    },
+    {
+        "letter": ">",
+        "ascii": "%3E",
+        "utf-8": "%3E"
+    },
+    {
+        "letter": "?",
+        "ascii": "%3F",
+        "utf-8": "%3F"
+    },
+    {
+        "letter": "@",
+        "ascii": "%40",
+        "utf-8": "%40"
+    },
+    {
+        "letter": "A",
+        "ascii": "%41",
+        "utf-8": "%41"
+    },
+    {
+        "letter": "B",
+        "ascii": "%42",
+        "utf-8": "%42"
+    },
+    {
+        "letter": "C",
+        "ascii": "%43",
+        "utf-8": "%43"
+    },
+    {
+        "letter": "D",
+        "ascii": "%44",
+        "utf-8": "%44"
+    },
+    {
+        "letter": "E",
+        "ascii": "%45",
+        "utf-8": "%45"
+    },
+    {
+        "letter": "F",
+        "ascii": "%46",
+        "utf-8": "%46"
+    },
+    {
+        "letter": "G",
+        "ascii": "%47",
+        "utf-8": "%47"
+    },
+    {
+        "letter": "H",
+        "ascii": "%48",
+        "utf-8": "%48"
+    },
+    {
+        "letter": "I",
+        "ascii": "%49",
+        "utf-8": "%49"
+    },
+    {
+        "letter": "J",
+        "ascii": "%4A",
+        "utf-8": "%4A"
+    },
+    {
+        "letter": "K",
+        "ascii": "%4B",
+        "utf-8": "%4B"
+    },
+    {
+        "letter": "L",
+        "ascii": "%4C",
+        "utf-8": "%4C"
+    },
+    {
+        "letter": "M",
+        "ascii": "%4D",
+        "utf-8": "%4D"
+    },
+    {
+        "letter": "N",
+        "ascii": "%4E",
+        "utf-8": "%4E"
+    },
+    {
+        "letter": "O",
+        "ascii": "%4F",
+        "utf-8": "%4F"
+    },
+    {
+        "letter": "P",
+        "ascii": "%50",
+        "utf-8": "%50"
+    },
+    {
+        "letter": "Q",
+        "ascii": "%51",
+        "utf-8": "%51"
+    },
+    {
+        "letter": "R",
+        "ascii": "%52",
+        "utf-8": "%52"
+    },
+    {
+        "letter": "S",
+        "ascii": "%53",
+        "utf-8": "%53"
+    },
+    {
+        "letter": "T",
+        "ascii": "%54",
+        "utf-8": "%54"
+    },
+    {
+        "letter": "U",
+        "ascii": "%55",
+        "utf-8": "%55"
+    },
+    {
+        "letter": "V",
+        "ascii": "%56",
+        "utf-8": "%56"
+    },
+    {
+        "letter": "W",
+        "ascii": "%57",
+        "utf-8": "%57"
+    },
+    {
+        "letter": "X",
+        "ascii": "%58",
+        "utf-8": "%58"
+    },
+    {
+        "letter": "Y",
+        "ascii": "%59",
+        "utf-8": "%59"
+    },
+    {
+        "letter": "Z",
+        "ascii": "%5A",
+        "utf-8": "%5A"
+    },
+    {
+        "letter": "[",
+        "ascii": "%5B",
+        "utf-8": "%5B"
+    },
+    {
+        "letter": "\\",
+        "ascii": "%5C",
+        "utf-8": "%5C"
+    },
+    {
+        "letter": "]",
+        "ascii": "%5D",
+        "utf-8": "%5D"
+    },
+    {
+        "letter": "^",
+        "ascii": "%5E",
+        "utf-8": "%5E"
+    },
+    {
+        "letter": "_",
+        "ascii": "%5F",
+        "utf-8": "%5F"
+    },
+    {
+        "letter": "`",
+        "ascii": "%60",
+        "utf-8": "%60"
+    },
+    {
+        "letter": "a",
+        "ascii": "%61",
+        "utf-8": "%61"
+    },
+    {
+        "letter": "b",
+        "ascii": "%62",
+        "utf-8": "%62"
+    },
+    {
+        "letter": "c",
+        "ascii": "%63",
+        "utf-8": "%63"
+    },
+    {
+        "letter": "d",
+        "ascii": "%64",
+        "utf-8": "%64"
+    },
+    {
+        "letter": "e",
+        "ascii": "%65",
+        "utf-8": "%65"
+    },
+    {
+        "letter": "f",
+        "ascii": "%66",
+        "utf-8": "%66"
+    },
+    {
+        "letter": "g",
+        "ascii": "%67",
+        "utf-8": "%67"
+    },
+    {
+        "letter": "h",
+        "ascii": "%68",
+        "utf-8": "%68"
+    },
+    {
+        "letter": "i",
+        "ascii": "%69",
+        "utf-8": "%69"
+    },
+    {
+        "letter": "j",
+        "ascii": "%6A",
+        "utf-8": "%6A"
+    },
+    {
+        "letter": "k",
+        "ascii": "%6B",
+        "utf-8": "%6B"
+    },
+    {
+        "letter": "l",
+        "ascii": "%6C",
+        "utf-8": "%6C"
+    },
+    {
+        "letter": "m",
+        "ascii": "%6D",
+        "utf-8": "%6D"
+    },
+    {
+        "letter": "n",
+        "ascii": "%6E",
+        "utf-8": "%6E"
+    },
+    {
+        "letter": "o",
+        "ascii": "%6F",
+        "utf-8": "%6F"
+    },
+    {
+        "letter": "p",
+        "ascii": "%70",
+        "utf-8": "%70"
+    },
+    {
+        "letter": "q",
+        "ascii": "%71",
+        "utf-8": "%71"
+    },
+    {
+        "letter": "r",
+        "ascii": "%72",
+        "utf-8": "%72"
+    },
+    {
+        "letter": "s",
+        "ascii": "%73",
+        "utf-8": "%73"
+    },
+    {
+        "letter": "t",
+        "ascii": "%74",
+        "utf-8": "%74"
+    },
+    {
+        "letter": "u",
+        "ascii": "%75",
+        "utf-8": "%75"
+    },
+    {
+        "letter": "v",
+        "ascii": "%76",
+        "utf-8": "%76"
+    },
+    {
+        "letter": "w",
+        "ascii": "%77",
+        "utf-8": "%77"
+    },
+    {
+        "letter": "x",
+        "ascii": "%78",
+        "utf-8": "%78"
+    },
+    {
+        "letter": "y",
+        "ascii": "%79",
+        "utf-8": "%79"
+    },
+    {
+        "letter": "z",
+        "ascii": "%7A",
+        "utf-8": "%7A"
+    },
+    {
+        "letter": "{",
+        "ascii": "%7B",
+        "utf-8": "%7B"
+    },
+    {
+        "letter": "|",
+        "ascii": "%7C",
+        "utf-8": "%7C"
+    },
+    {
+        "letter": "}",
+        "ascii": "%7D",
+        "utf-8": "%7D"
+    },
+    {
+        "letter": "~",
+        "ascii": "%7E",
+        "utf-8": "%7E"
+    },
+    {
+        "letter": " ",
+        "ascii": "%7F",
+        "utf-8": "%7F"
+    },
+    {
+        "letter": "\u20ac",
+        "ascii": "%80",
+        "utf-8": "%E2%82%AC"
+    },
+    {
+        "letter": "\u0081",
+        "ascii": "%81",
+        "utf-8": "%81"
+    },
+    {
+        "letter": "\u201a",
+        "ascii": "%82",
+        "utf-8": "%E2%80%9A"
+    },
+    {
+        "letter": "\u0192",
+        "ascii": "%83",
+        "utf-8": "%C6%92"
+    },
+    {
+        "letter": "\u201e",
+        "ascii": "%84",
+        "utf-8": "%E2%80%9E"
+    },
+    {
+        "letter": "\u2026",
+        "ascii": "%85",
+        "utf-8": "%E2%80%A6"
+    },
+    {
+        "letter": "\u2020",
+        "ascii": "%86",
+        "utf-8": "%E2%80%A0"
+    },
+    {
+        "letter": "\u2021",
+        "ascii": "%87",
+        "utf-8": "%E2%80%A1"
+    },
+    {
+        "letter": "\u02c6",
+        "ascii": "%88",
+        "utf-8": "%CB%86"
+    },
+    {
+        "letter": "\u2030",
+        "ascii": "%89",
+        "utf-8": "%E2%80%B0"
+    },
+    {
+        "letter": "\u0160",
+        "ascii": "%8A",
+        "utf-8": "%C5%A0"
+    },
+    {
+        "letter": "\u2039",
+        "ascii": "%8B",
+        "utf-8": "%E2%80%B9"
+    },
+    {
+        "letter": "\u0152",
+        "ascii": "%8C",
+        "utf-8": "%C5%92"
+    },
+    {
+        "letter": "\u008d",
+        "ascii": "%8D",
+        "utf-8": "%C5%8D"
+    },
+    {
+        "letter": "\u017d",
+        "ascii": "%8E",
+        "utf-8": "%C5%BD"
+    },
+    {
+        "letter": "\u008f",
+        "ascii": "%8F",
+        "utf-8": "%8F"
+    },
+    {
+        "letter": "\u0090",
+        "ascii": "%90",
+        "utf-8": "%C2%90"
+    },
+    {
+        "letter": "\u2018",
+        "ascii": "%91",
+        "utf-8": "%E2%80%98"
+    },
+    {
+        "letter": "\u2019",
+        "ascii": "%92",
+        "utf-8": "%E2%80%99"
+    },
+    {
+        "letter": "\u201c",
+        "ascii": "%93",
+        "utf-8": "%E2%80%9C"
+    },
+    {
+        "letter": "\u201d",
+        "ascii": "%94",
+        "utf-8": "%E2%80%9D"
+    },
+    {
+        "letter": "\u2022",
+        "ascii": "%95",
+        "utf-8": "%E2%80%A2"
+    },
+    {
+        "letter": "\u2013",
+        "ascii": "%96",
+        "utf-8": "%E2%80%93"
+    },
+    {
+        "letter": "\u2014",
+        "ascii": "%97",
+        "utf-8": "%E2%80%94"
+    },
+    {
+        "letter": "\u02dc",
+        "ascii": "%98",
+        "utf-8": "%CB%9C"
+    },
+    {
+        "letter": "\u2122",
+        "ascii": "%99",
+        "utf-8": "%E2%84"
+    },
+    {
+        "letter": "\u0161",
+        "ascii": "%9A",
+        "utf-8": "%C5%A1"
+    },
+    {
+        "letter": "\u203a",
+        "ascii": "%9B",
+        "utf-8": "%E2%80"
+    },
+    {
+        "letter": "\u0153",
+        "ascii": "%9C",
+        "utf-8": "%C5%93"
+    },
+    {
+        "letter": "\u009d",
+        "ascii": "%9D",
+        "utf-8": "%9D"
+    },
+    {
+        "letter": "\u017e",
+        "ascii": "%9E",
+        "utf-8": "%C5%BE"
+    },
+    {
+        "letter": "\u0178",
+        "ascii": "%9F",
+        "utf-8": "%C5%B8"
+    },
+    {
+        "letter": " ",
+        "ascii": "%A0",
+        "utf-8": "%C2%A0"
+    },
+    {
+        "letter": "\u00a1",
+        "ascii": "%A1",
+        "utf-8": "%C2%A1"
+    },
+    {
+        "letter": "\u00a2",
+        "ascii": "%A2",
+        "utf-8": "%C2%A2"
+    },
+    {
+        "letter": "\u00a3",
+        "ascii": "%A3",
+        "utf-8": "%C2%A3"
+    },
+    {
+        "letter": "\u00a4",
+        "ascii": "%A4",
+        "utf-8": "%C2%A4"
+    },
+    {
+        "letter": "\u00a5",
+        "ascii": "%A5",
+        "utf-8": "%C2%A5"
+    },
+    {
+        "letter": "\u00a6",
+        "ascii": "%A6",
+        "utf-8": "%C2%A6"
+    },
+    {
+        "letter": "\u00a7",
+        "ascii": "%A7",
+        "utf-8": "%C2%A7"
+    },
+    {
+        "letter": "\u00a8",
+        "ascii": "%A8",
+        "utf-8": "%C2%A8"
+    },
+    {
+        "letter": "\u00a9",
+        "ascii": "%A9",
+        "utf-8": "%C2%A9"
+    },
+    {
+        "letter": "\u00aa",
+        "ascii": "%AA",
+        "utf-8": "%C2%AA"
+    },
+    {
+        "letter": "\u00ab",
+        "ascii": "%AB",
+        "utf-8": "%C2%AB"
+    },
+    {
+        "letter": "\u00ac",
+        "ascii": "%AC",
+        "utf-8": "%C2%AC"
+    },
+    {
+        "letter": "\u00ad",
+        "ascii": "%AD",
+        "utf-8": "%C2%AD"
+    },
+    {
+        "letter": "\u00ae",
+        "ascii": "%AE",
+        "utf-8": "%C2%AE"
+    },
+    {
+        "letter": "\u00af",
+        "ascii": "%AF",
+        "utf-8": "%C2%AF"
+    },
+    {
+        "letter": "\u00b0",
+        "ascii": "%B0",
+        "utf-8": "%C2%B0"
+    },
+    {
+        "letter": "\u00b1",
+        "ascii": "%B1",
+        "utf-8": "%C2%B1"
+    },
+    {
+        "letter": "\u00b2",
+        "ascii": "%B2",
+        "utf-8": "%C2%B2"
+    },
+    {
+        "letter": "\u00b3",
+        "ascii": "%B3",
+        "utf-8": "%C2%B3"
+    },
+    {
+        "letter": "\u00b4",
+        "ascii": "%B4",
+        "utf-8": "%C2%B4"
+    },
+    {
+        "letter": "\u00b5",
+        "ascii": "%B5",
+        "utf-8": "%C2%B5"
+    },
+    {
+        "letter": "\u00b6",
+        "ascii": "%B6",
+        "utf-8": "%C2%B6"
+    },
+    {
+        "letter": "\u00b7",
+        "ascii": "%B7",
+        "utf-8": "%C2%B7"
+    },
+    {
+        "letter": "\u00b8",
+        "ascii": "%B8",
+        "utf-8": "%C2%B8"
+    },
+    {
+        "letter": "\u00b9",
+        "ascii": "%B9",
+        "utf-8": "%C2%B9"
+    },
+    {
+        "letter": "\u00ba",
+        "ascii": "%BA",
+        "utf-8": "%C2%BA"
+    },
+    {
+        "letter": "\u00bb",
+        "ascii": "%BB",
+        "utf-8": "%C2%BB"
+    },
+    {
+        "letter": "\u00bc",
+        "ascii": "%BC",
+        "utf-8": "%C2%BC"
+    },
+    {
+        "letter": "\u00bd",
+        "ascii": "%BD",
+        "utf-8": "%C2%BD"
+    },
+    {
+        "letter": "\u00be",
+        "ascii": "%BE",
+        "utf-8": "%C2%BE"
+    },
+    {
+        "letter": "\u00bf",
+        "ascii": "%BF",
+        "utf-8": "%C2%BF"
+    },
+    {
+        "letter": "\u00c0",
+        "ascii": "%C0",
+        "utf-8": "%C3%80"
+    },
+    {
+        "letter": "\u00c1",
+        "ascii": "%C1",
+        "utf-8": "%C3%81"
+    },
+    {
+        "letter": "\u00c2",
+        "ascii": "%C2",
+        "utf-8": "%C3%82"
+    },
+    {
+        "letter": "\u00c3",
+        "ascii": "%C3",
+        "utf-8": "%C3%83"
+    },
+    {
+        "letter": "\u00c4",
+        "ascii": "%C4",
+        "utf-8": "%C3%84"
+    },
+    {
+        "letter": "\u00c5",
+        "ascii": "%C5",
+        "utf-8": "%C3%85"
+    },
+    {
+        "letter": "\u00c6",
+        "ascii": "%C6",
+        "utf-8": "%C3%86"
+    },
+    {
+        "letter": "\u00c7",
+        "ascii": "%C7",
+        "utf-8": "%C3%87"
+    },
+    {
+        "letter": "\u00c8",
+        "ascii": "%C8",
+        "utf-8": "%C3%88"
+    },
+    {
+        "letter": "\u00c9",
+        "ascii": "%C9",
+        "utf-8": "%C3%89"
+    },
+    {
+        "letter": "\u00ca",
+        "ascii": "%CA",
+        "utf-8": "%C3%8A"
+    },
+    {
+        "letter": "\u00cb",
+        "ascii": "%CB",
+        "utf-8": "%C3%8B"
+    },
+    {
+        "letter": "\u00cc",
+        "ascii": "%CC",
+        "utf-8": "%C3%8C"
+    },
+    {
+        "letter": "\u00cd",
+        "ascii": "%CD",
+        "utf-8": "%C3%8D"
+    },
+    {
+        "letter": "\u00ce",
+        "ascii": "%CE",
+        "utf-8": "%C3%8E"
+    },
+    {
+        "letter": "\u00cf",
+        "ascii": "%CF",
+        "utf-8": "%C3%8F"
+    },
+    {
+        "letter": "\u00d0",
+        "ascii": "%D0",
+        "utf-8": "%C3%90"
+    },
+    {
+        "letter": "\u00d1",
+        "ascii": "%D1",
+        "utf-8": "%C3%91"
+    },
+    {
+        "letter": "\u00d2",
+        "ascii": "%D2",
+        "utf-8": "%C3%92"
+    },
+    {
+        "letter": "\u00d3",
+        "ascii": "%D3",
+        "utf-8": "%C3%93"
+    },
+    {
+        "letter": "\u00d4",
+        "ascii": "%D4",
+        "utf-8": "%C3%94"
+    },
+    {
+        "letter": "\u00d5",
+        "ascii": "%D5",
+        "utf-8": "%C3%95"
+    },
+    {
+        "letter": "\u00d6",
+        "ascii": "%D6",
+        "utf-8": "%C3%96"
+    },
+    {
+        "letter": "\u00d7",
+        "ascii": "%D7",
+        "utf-8": "%C3%97"
+    },
+    {
+        "letter": "\u00d8",
+        "ascii": "%D8",
+        "utf-8": "%C3%98"
+    },
+    {
+        "letter": "\u00d9",
+        "ascii": "%D9",
+        "utf-8": "%C3%99"
+    },
+    {
+        "letter": "\u00da",
+        "ascii": "%DA",
+        "utf-8": "%C3%9A"
+    },
+    {
+        "letter": "\u00db",
+        "ascii": "%DB",
+        "utf-8": "%C3%9B"
+    },
+    {
+        "letter": "\u00dc",
+        "ascii": "%DC",
+        "utf-8": "%C3%9C"
+    },
+    {
+        "letter": "\u00dd",
+        "ascii": "%DD",
+        "utf-8": "%C3%9D"
+    },
+    {
+        "letter": "\u00de",
+        "ascii": "%DE",
+        "utf-8": "%C3%9E"
+    },
+    {
+        "letter": "\u00df",
+        "ascii": "%DF",
+        "utf-8": "%C3%9F"
+    },
+    {
+        "letter": "\u00e0",
+        "ascii": "%E0",
+        "utf-8": "%C3%A0"
+    },
+    {
+        "letter": "\u00e1",
+        "ascii": "%E1",
+        "utf-8": "%C3%A1"
+    },
+    {
+        "letter": "\u00e2",
+        "ascii": "%E2",
+        "utf-8": "%C3%A2"
+    },
+    {
+        "letter": "\u00e3",
+        "ascii": "%E3",
+        "utf-8": "%C3%A3"
+    },
+    {
+        "letter": "\u00e4",
+        "ascii": "%E4",
+        "utf-8": "%C3%A4"
+    },
+    {
+        "letter": "\u00e5",
+        "ascii": "%E5",
+        "utf-8": "%C3%A5"
+    },
+    {
+        "letter": "\u00e6",
+        "ascii": "%E6",
+        "utf-8": "%C3%A6"
+    },
+    {
+        "letter": "\u00e7",
+        "ascii": "%E7",
+        "utf-8": "%C3%A7"
+    },
+    {
+        "letter": "\u00e8",
+        "ascii": "%E8",
+        "utf-8": "%C3%A8"
+    },
+    {
+        "letter": "\u00e9",
+        "ascii": "%E9",
+        "utf-8": "%C3%A9"
+    },
+    {
+        "letter": "\u00ea",
+        "ascii": "%EA",
+        "utf-8": "%C3%AA"
+    },
+    {
+        "letter": "\u00eb",
+        "ascii": "%EB",
+        "utf-8": "%C3%AB"
+    },
+    {
+        "letter": "\u00ec",
+        "ascii": "%EC",
+        "utf-8": "%C3%AC"
+    },
+    {
+        "letter": "\u00ed",
+        "ascii": "%ED",
+        "utf-8": "%C3%AD"
+    },
+    {
+        "letter": "\u00ee",
+        "ascii": "%EE",
+        "utf-8": "%C3%AE"
+    },
+    {
+        "letter": "\u00ef",
+        "ascii": "%EF",
+        "utf-8": "%C3%AF"
+    },
+    {
+        "letter": "\u00f0",
+        "ascii": "%F0",
+        "utf-8": "%C3%B0"
+    },
+    {
+        "letter": "\u00f1",
+        "ascii": "%F1",
+        "utf-8": "%C3%B1"
+    },
+    {
+        "letter": "\u00f2",
+        "ascii": "%F2",
+        "utf-8": "%C3%B2"
+    },
+    {
+        "letter": "\u00f3",
+        "ascii": "%F3",
+        "utf-8": "%C3%B3"
+    },
+    {
+        "letter": "\u00f4",
+        "ascii": "%F4",
+        "utf-8": "%C3%B4"
+    },
+    {
+        "letter": "\u00f5",
+        "ascii": "%F5",
+        "utf-8": "%C3%B5"
+    },
+    {
+        "letter": "\u00f6",
+        "ascii": "%F6",
+        "utf-8": "%C3%B6"
+    },
+    {
+        "letter": "\u00f7",
+        "ascii": "%F7",
+        "utf-8": "%C3%B7"
+    },
+    {
+        "letter": "\u00f8",
+        "ascii": "%F8",
+        "utf-8": "%C3%B8"
+    },
+    {
+        "letter": "\u00f9",
+        "ascii": "%F9",
+        "utf-8": "%C3%B9"
+    },
+    {
+        "letter": "\u00fa",
+        "ascii": "%FA",
+        "utf-8": "%C3%BA"
+    },
+    {
+        "letter": "\u00fb",
+        "ascii": "%FB",
+        "utf-8": "%C3%BB"
+    },
+    {
+        "letter": "\u00fc",
+        "ascii": "%FC",
+        "utf-8": "%C3%BC"
+    },
+    {
+        "letter": "\u00fd",
+        "ascii": "%FD",
+        "utf-8": "%C3%BD"
+    },
+    {
+        "letter": "\u00fe",
+        "ascii": "%FE",
+        "utf-8": "%C3%BE"
+    },
+    {
+        "letter": "\u00ff",
+        "ascii": "%FF",
+        "utf-8": "%C3%BF"
+    }
+]
