@@ -18,12 +18,12 @@ def calculate_hubble_constant(data: List[dict] = None)->float:
         Example:
             data = [
                 {
-                    "distance": 12.3E12, ## 12.3 x (10^12) | Megaparsec
-                    "velocity": 3.1E9 ## 3.1 X (10^9) | Kilometres per Hour
+                    "distance": 3.66E+2, ## 3.66 x (10^22) | Megaparsec
+                    "velocity": 24.750E+3 ## 24.750 X (10^3) | Kilometres per Hour
                 },
                 {
-                    "distance": 9.3E12,
-                    "velocity": 4.1E9
+                    "distance": 3.66E+2,
+                    "velocity": 24.750E+3
                 }
                 ...
                 etc
@@ -42,18 +42,19 @@ def calculate_age(hc:float=None)->float:
     """
     Function to calculate the age of the universe given a Hubble Constant value.
     """
-    return 1/hc
+    resolved = hc * (1/3.08E+19) ## 3.08 * 10^19 kilomentres in a given parsec.
+    return (1/resolved)/31_557_600 ## 31,557,600 seconds in a year.
 
 def main():
     ## This is dummy data, replace with your recorded data.
     data = [
                 {
-                    "distance": 12.3E12, ## 12.3 x (10^12)
-                    "velocity": 3.1E3 ## 3.1 X (10^9)
+                    "distance": 3.66E+2, ## 3.66 x (10^22) | Megaparsec
+                    "velocity": 24.750E+3 ## 24.750 X (10^3) | Kilometres per Hour
                 },
                 {
-                    "distance": 9.3E12,
-                    "velocity": 4.1E2
+                    "distance": 3.66E+2,
+                    "velocity": 24.750E+3
                 }
             ]
     age = calculate_age(hc=calculate_hubble_constant(data=data))
