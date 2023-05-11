@@ -36,6 +36,10 @@ colorama==0.4.4
     # via
     #   ipython
     #   pytest
+contourpy==1.0.7
+    # via matplotlib
+cycler==0.11.0
+    # via matplotlib
 debugpy==1.6.3
     # via ipykernel
 decorator==5.1.1
@@ -56,10 +60,14 @@ faker==13.13.0
     # via -r requirements.in
 fastjsonschema==2.16.2
     # via nbformat
+fonttools==4.39.4
+    # via matplotlib
 idna==3.3
     # via requests
 importlib-metadata==5.0.0
     # via nbconvert
+importlib-resources==5.12.0
+    # via matplotlib
 iniconfig==1.1.1
     # via pytest
 ipykernel==6.16.0
@@ -112,10 +120,14 @@ jupyterlab-pygments==0.2.2
     # via nbconvert
 jupyterlab-widgets==3.0.3
     # via ipywidgets
+kiwisolver==1.4.4
+    # via matplotlib
 markupsafe==2.1.1
     # via
     #   jinja2
     #   nbconvert
+matplotlib==3.7.1
+    # via overloaded-iterables
 matplotlib-inline==0.1.6
     # via
     #   ipykernel
@@ -144,10 +156,17 @@ nest-asyncio==1.5.6
 notebook==6.4.12
     # via jupyter
 numpy==1.22.4
-    # via pandas
+    # via
+    #   contourpy
+    #   matplotlib
+    #   overloaded-iterables
+    #   pandas
+overloaded-iterables==0.7.34
+    # via -r requirements.in
 packaging==21.3
     # via
     #   ipykernel
+    #   matplotlib
     #   nbconvert
     #   pytest
     #   qtpy
@@ -159,6 +178,8 @@ parso==0.8.3
     # via jedi
 pickleshare==0.7.5
     # via ipython
+pillow==9.5.0
+    # via matplotlib
 pluggy==1.0.0
     # via pytest
 prometheus-client==0.14.1
@@ -175,11 +196,13 @@ pure-eval==0.2.2
     # via stack-data
 py==1.11.0
     # via pytest
+pyasn1==0.5.0
+    # via rsa
 pycodestyle==2.8.0
     # via autopep8
 pycparser==2.21
     # via cffi
-pycryptodome==3.17
+pydantic==1.10.7
     # via -r requirements.in
 pygments==2.13.0
     # via
@@ -190,7 +213,9 @@ pygments==2.13.0
 pyjwt==2.5.0
     # via -r requirements.in
 pyparsing==3.0.9
-    # via packaging
+    # via
+    #   matplotlib
+    #   packaging
 pyrsistent==0.18.1
     # via jsonschema
 pytest==7.1.2
@@ -199,6 +224,7 @@ python-dateutil==2.8.2
     # via
     #   faker
     #   jupyter-client
+    #   matplotlib
     #   pandas
 python-dotenv==0.20.0
     # via -r requirements.in
@@ -221,6 +247,8 @@ qtconsole==5.3.2
 qtpy==2.2.1
     # via qtconsole
 requests==2.27.1
+    # via -r requirements.in
+rsa==4.9
     # via -r requirements.in
 send2trash==1.8.0
     # via notebook
@@ -264,6 +292,8 @@ traitlets==5.4.0
     #   nbformat
     #   notebook
     #   qtconsole
+typing-extensions==4.5.0
+    # via pydantic
 tzdata==2022.1
     # via django
 urllib3==1.26.9
@@ -277,4 +307,6 @@ webencodings==0.5.1
 widgetsnbextension==4.0.3
     # via ipywidgets
 zipp==3.9.0
-    # via importlib-metadata
+    # via
+    #   importlib-metadata
+    #   importlib-resources

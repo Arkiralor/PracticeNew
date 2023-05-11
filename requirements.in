@@ -4,7 +4,9 @@ Django
 djangorestframework
 jsonpath
 jupyter
+overloaded-iterables
 pandas
+pydantic
 python-dotenv
 pytest
 sympy
@@ -12,5 +14,3 @@ requests
 rsa
 psycopg2-binary
 pyjwt
-# pycryptodome
-# pyjwt[crypto]
