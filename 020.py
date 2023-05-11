@@ -1,3 +1,7 @@
+"""
+Module to first calculate the Hubble Constant using a a list of observations and then derive the age of the universe using H0.
+"""
+
 from typing import List
 from overloaded_iterables.classes import OverloadedList
 
