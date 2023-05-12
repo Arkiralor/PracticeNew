@@ -10,6 +10,7 @@ from pydantic import BaseModel
 
 ## Or you can also use a class instead of the dict.
 class GalaxyModel(BaseModel):
+    name: str
     distance: float
     velocity: float
 
@@ -19,8 +20,15 @@ class GalaxyModel(BaseModel):
 
 
 def calculate_h0(data: List[GalaxyModel] = None) -> float:
+    """
+    Function to calculate the mean Hubble's Constant
+
+    It is defined as the helioradical velocity divided by the distance from Earth FOR VERY FAR AWAY GALAXIES.
+    """
     data = OverloadedList([item.h0 for item in data])
-    return data.mean()
+    h0 = data.mean()
+    print(f"Hubble's Constant calculated:\t{h0}km/s/Mpc")
+    return h0
 
 
 def calculate_age(h0: float = None, unit: str = "years") -> float:

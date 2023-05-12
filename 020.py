@@ -12,6 +12,8 @@ def calculate_hubble_constant(data: List[Dict[str, float]] = None) -> float:
     """
     Function to calculate the hubble constanct (1/t) based on a dictionary of given distances and values of miscellaneous galaxies from the Earth.
 
+    It is defined as the helioradical velocity divided by the distance from Earth FOR VERY FAR AWAY GALAXIES.
+
     Arguments:
         data: List:
                 Dict: 
@@ -39,8 +41,9 @@ def calculate_hubble_constant(data: List[Dict[str, float]] = None) -> float:
     for item in data:
         inverse_time_takens.append(
             float(item.get("velocity", 0))/float(item.get("distance", 0)))
-
-    return OverloadedList(inverse_time_takens).mean()
+    h0 = OverloadedList(inverse_time_takens).mean()
+    print(f"Hubble's Constant calculated:\t{h0}km/s/Mpc")
+    return h0
 
 
 def calculate_age(hc: float = None) -> float:
