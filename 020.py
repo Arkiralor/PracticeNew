@@ -46,6 +46,8 @@ def calculate_hubble_constant(data: List[Dict[str, float]] = None) -> float:
 def calculate_age(hc: float = None) -> float:
     """
     Function to calculate the age of the universe given a Hubble Constant value.
+
+    Link: https://www.e-education.psu.edu/astro801/content/l10_p5.html
     """
     resolved = hc * (1/3.08E+19)  # 3.08 * 10^19 kilomentres in a given parsec.
     return (1/resolved)/31_557_600  # 31,557,600 seconds in a year.

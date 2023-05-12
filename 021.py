@@ -14,12 +14,12 @@ class GalaxyModel(BaseModel):
     velocity: float
 
     @property
-    def calculate_h0(self) -> float:
+    def h0(self) -> float:
         return float(self.velocity/self.distance)
 
 
 def calculate_h0(data: List[GalaxyModel] = None) -> float:
-    data = OverloadedList([item.calculate_h0 for item in data])
+    data = OverloadedList([item.h0 for item in data])
     return data.mean()
 
 
@@ -28,6 +28,8 @@ def calculate_age(h0: float = None, unit: str = "years") -> float:
     Find the age of the universe in `unit`.
 
     `unit`: years | seconds
+
+    Link: https://www.e-education.psu.edu/astro801/content/l10_p5.html
     """
     # 3.08 * 10^19 kilomentres in a given parsec.
     resolved = resolved = h0 * (1/3.08E+19)  
