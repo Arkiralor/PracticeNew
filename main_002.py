@@ -14,8 +14,8 @@ class InputClass:
 
     def __init__(self, int_num: str = None, bin_num: str = None) -> None:
         try:
-            self._DEC_NUM = abs(int(int_num))
-            self._BIN_NUM = bin_num
+            self._DEC_NUM = abs(int(int_num.strip().replace("_", "")))
+            self._BIN_NUM = bin_num.strip().replace("_", "")
         except Exception as err:
             print(
                 {
@@ -45,7 +45,7 @@ class InputClass:
             elif len(temp_list) > len(self._BIN_NUM):
                 print(
                     f"Decimal number '{self._DEC_NUM}' out-of-range of binary number 'x0b{self._BIN_NUM}'."
-                    )
+                )
                 exit()
         except Exception as err:
             print(
@@ -56,7 +56,7 @@ class InputClass:
 
         print(
             f"Decimal number '{self._DEC_NUM}' converted to binary: x0b{self._DEC_TO_BINARY}"
-            )
+        )
 
     def check_differences(self) -> int:
         '''
@@ -82,7 +82,7 @@ def main() -> None:
     '''
     Main function.
     '''
-    numbers = InputClass('756', '1111111111')
+    numbers = InputClass('1_256', '11111111110000')
     print("Numbers: ", numbers)
     print("Binary Digits to flip: ", numbers.check_differences())
 

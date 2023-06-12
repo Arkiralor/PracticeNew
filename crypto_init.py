@@ -1,3 +1,4 @@
+import base64
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import AES, PKCS1_OAEP
 from Crypto.Random import get_random_bytes
@@ -27,7 +28,7 @@ def get_keys():
         with open("public.pem", "rb")as public_file:
             public_key = rsa.PublicKey.load_pkcs1(public_file.read())
 
-        print(f"PRIVATE KEY:\t{private_key}\nPUBLIC_KEY:\t{public_key}")
+        # print(f"PRIVATE KEY:\t{private_key}\nPUBLIC_KEY:\t{public_key}")
 
         return private_key, public_key
     except Exception as ex:
@@ -50,7 +51,7 @@ if __name__ == "__main__":
     # # pass
     # get_keys()
     data = "I have a 50m, f/1.8 Prime Lens from Nikkor"
-    encoded = encrypt_str(data=data)
+    encoded = base64.b64encode(encrypt_str(data=data)).decode()
     print(f"Encoded String:\t{encoded}")
-    decoded = decrypt_str(encoded)
+    decoded = decrypt_str(base64.b64decode(encoded))
     print(f"Decoded String:\t{decoded}")

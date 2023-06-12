@@ -5,6 +5,13 @@ an alphanumeric string.
 Eg:
     Input: I have 3 whole crates; enough to feed 7 people for 2 whole months.
     Output: 732
+
+Solution:
+    1. Find all the digits in the sentence.
+    2. Add them all to a list or array.
+    3. Sort the list in descending order.
+    4. Join the list into a string.
+    5. Convert the string into a number.
 '''
 from typing import List
 
