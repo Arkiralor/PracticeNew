@@ -9,6 +9,10 @@ It could have any character that is not mentioned in the list of characters to b
 Output True if the string forms a valid password and False otherwise.
 """
 
+import re
+
+PASSWORD_REGEX: str = re.compile(r'^[a-zA-Z](?!.*[\/\\=\'\" ]).{6,30}$')
+
 
 def check_password_v1(password: str = "password") -> bool:
     unallowed_chars = ("/", "\\", "=", "'", '"')
@@ -29,9 +33,13 @@ def check_password_v1(password: str = "password") -> bool:
 
     return True
 
+def check_password_v2(password:str="password") -> bool:
+    return bool(re.match(PASSWORD_REGEX, password))
+
 def main():
-    password = "passw'rd"
-    print(check_password_v1(password=password))
+    password = "passwo\\rd"
+    # print(check_password_v1(password=password))
+    print(check_password_v2(password=password))
 
 if __name__=="__main__":
     main()
