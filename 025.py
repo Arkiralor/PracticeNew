@@ -11,7 +11,7 @@ Output True if the string forms a valid password and False otherwise.
 
 import re
 
-PASSWORD_REGEX: str = re.compile(r'^[a-zA-Z](?!.*[\/\\=\'\" ]).{6,30}$')
+PASSWORD_REGEX: str = re.compile(r'^[a-zA-Z](?!.*[\/\\=\'\" ]).{8,32}$')
 
 
 def check_password_v1(password: str = "password") -> bool:
